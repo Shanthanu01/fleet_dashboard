@@ -27,12 +27,12 @@ It helps managers track vehicle locations, monitor performance metrics, and gain
 
 ## 📸 Screenshots  
 
-![Screenshot 1](screenshots/scrreenshot1.png)  
-![Screenshot 2](screenshots/screenshot2.png)  
-![Screenshot 3](screenshots/screenshot3.png)  
-![Screenshot 4](screenshots/screenshot4.png)  
-![Screenshot 5](screenshots/screenshot5.png)  
-![Screenshot 6](screenshots/screenshot6.png)  
+![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 2](screenshots/Screenshot2.png)  
+![Screenshot 3](screenshots/Screenshot3.png)  
+![Screenshot 4](screenshots/Screenshot4.png)  
+![Screenshot 5](screenshots/Screenshot5.png)  
+![Screenshot 6](screenshots/Screenshot6.png)  
 
 
 ---
